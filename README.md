@@ -14,6 +14,7 @@ cd qurxin
 chmod +x *
 sh install.sh
 exit
+
 ```
 ### One command installation :octocat:
 ```
