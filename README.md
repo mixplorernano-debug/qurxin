@@ -1,6 +1,6 @@
 # Termux interface Qurxin 
 
-<img width="200px" src="https://ibb.co/FbdGHgx4" alt="Image description">
+<img width="200px" "[img]src=https://ibb.co/FbdGHgx4"
 
 
 
