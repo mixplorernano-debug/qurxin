@@ -1,10 +1,8 @@
 # Termux interface Qurxin 
 
-<h3>Share this Image On Your Site</h3>
-<textarea onclick="this.focus();this.select()" style="width: 540px; height: 120px">
-    <p><strong>Please include attribution to <a href="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk">https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk</a> with this image.</strong></p>
-    <p><a href="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk"><img src="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk" alt="MY Termux interface "   /></a></p>
-</textarea>
+<p><strong>Please include attribution to <a href="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk">https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk</a> with this image.</strong></p>
+<p><a href="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk"><img src="https://drive.google.com/file/d/1N8pPIQnG7pfyrjo8zbdCVPwv8Dibaqfj/view?usp=drivesdk" alt="MY Termux interface "   /></a></p>
+
 
 #### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
