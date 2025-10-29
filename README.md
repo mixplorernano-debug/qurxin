@@ -33,8 +33,7 @@ cd qurxin
 bash rvt.sh
 ```
 # thanks for using my script please donate
-<a href="https://liberapay.com/fikrado">
-  <img align="center" alt="Yahye's Librabay" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Liberapay_logo_v2_white-on-yellow.svg/1200px-Liberapay_logo_v2_white-on-yellow.svg.png" />
+<img src="https://i.ibb.co/rgTc4Kb/scrshot-termux-interface.png" alt="scrshot-termux-interface" border="0">
 
 
 
