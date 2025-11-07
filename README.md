@@ -28,10 +28,6 @@ cd qurxin
 
 bash rvt.sh
 ```
-# thanks for using my script please donate
-<img src="https://i.ibb.co/rgTc4Kb/scrshot-termux-interface.png" alt="scrshot-termux-interface" border="0">
-
-
 
 ```
 #!/data/data/com.termux/files/usr/bin/bash
