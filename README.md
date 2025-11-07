@@ -29,7 +29,7 @@ cd qurxin
 bash rvt.sh
 ```
 
-Interface [+] Installation
+## Interface [+] Installation
 ```
 #!/data/data/com.termux/files/usr/bin/bash
 # Termux Environment Setup Script
